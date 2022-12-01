@@ -99,10 +99,6 @@
         </div>
     </div>
 
-    @section('site_js')
-        <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?explicit&hl=fa" async defer></script>
-    @endsection
-
     @include('site.layout.footer')
 
     <script type="text/javascript">
